@@ -1,5 +1,5 @@
-Design and implementation of a Enterprise-Grade Wireless Network with Strong Authentication
-
+**Design and implementation of a Enterprise-Grade Wireless Network with Strong Authentication
+**
 Security is one of the important aspect of today’s digital world. There have been numerous
 breaches by people with malicious intent to either steal confidential data or disrupt daily activities
 of a corporation. Security implemented at enterprise level still lack in certain design aspects
