@@ -20,3 +20,8 @@ and authentication methods to secure and maintain wireless users. We shall imple
 methods to point out how they are flawed when used individually and provide a solution to those
 issues by combining various authentication and encryption methods to make up for the said flaws.
 
+
+![arch](https://github.com/user-attachments/assets/8ffa65eb-293a-4f42-a269-51f949a805f3)
+
+
+
