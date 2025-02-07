@@ -1,4 +1,3 @@
-# masters-project
 Design and implementation of a Enterprise-Grade Wireless Network with Strong Authentication
 
 Security is one of the important aspect of today’s digital world. There have been numerous
